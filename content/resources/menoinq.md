@@ -5,7 +5,12 @@ description: A discussion on the paradox of inquiry, what is the doctrine of rec
   solution to the paradox of inquiry, evaluation of the argument.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-200-ancient-philosophy-fall-2004/42990f545337ffe493c69ddb86cbd7e2_menoinq.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: menoinq.pdf
+type: OCWFile
 uid: 42990f54-5337-ffe4-93c6-9ddb86cbd7e2
 ---

@@ -4,7 +4,12 @@ description: A discussion about the standard pattern of Socratic Elenchus, the S
   quest for definitions, and related questions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-200-ancient-philosophy-fall-2004/1772c321d915875bdb630a165988c3ac_euthyhdo.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: euthyhdo.pdf
+type: OCWFile
 uid: 1772c321-d915-875b-db63-0a165988c3ac
 ---

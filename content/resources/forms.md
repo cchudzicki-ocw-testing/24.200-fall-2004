@@ -4,7 +4,12 @@ description: A study on Platonism explaining two worlds of realm, knowledge, mea
   and moral/aesthetic standards.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-200-ancient-philosophy-fall-2004/ba11e96393169011ca3fb588a8cdcb60_forms.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: forms.pdf
+type: OCWFile
 uid: ba11e963-9316-9011-ca3f-b588a8cdcb60
 ---

@@ -3,7 +3,11 @@ content_type: resource
 description: A text analysis presentation on Aristotle's study on friendship.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-200-ancient-philosophy-fall-2004/eff11036bbb7bb2b19278dfb6d74c8ec_tap_nefriend2.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: tap_nefriend2.pdf
+type: OCWFile
 uid: eff11036-bbb7-bb2b-1927-8dfb6d74c8ec
 ---

@@ -3,7 +3,12 @@ content_type: resource
 description: The arguments for the forms from the nature of knowledge.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-200-ancient-philosophy-fall-2004/9512959a02ed7f81025b0a84449fd408_sunlinecave.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: sunlinecave.pdf
+type: OCWFile
 uid: 9512959a-02ed-7f81-025b-0a84449fd408
 ---
