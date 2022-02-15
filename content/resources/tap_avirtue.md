@@ -4,6 +4,7 @@ description: A passage from Aristotle's study on virtue for the text analysis pr
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-200-ancient-philosophy-fall-2004/0244a15bf02da7e778eab8f0f6c72a18_tap_avirtue.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

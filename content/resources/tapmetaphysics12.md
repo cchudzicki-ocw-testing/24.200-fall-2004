@@ -4,6 +4,7 @@ description: A passage fromAristotle's study for the text analysis presentation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-200-ancient-philosophy-fall-2004/5f13c16c47a58d84c0bec741edd8bbca_tapmetaphysics12.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
