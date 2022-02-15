@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 4causes.pdf
-type: OCWFile
 uid: 3c14c6c6-d7c7-c945-8fe7-1f8813dcbfc1
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: phaedo.pdf
-type: OCWFile
 uid: be480b55-4533-0e49-c081-92da208ee9a6
 ---

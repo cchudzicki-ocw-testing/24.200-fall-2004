@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: repsum.pdf
-type: OCWFile
 uid: 81416a43-ca11-a619-c8c4-4b87a63f38b7
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: tapphaedo.pdf
-type: OCWFile
 uid: 7d96cd8c-7099-0e1d-36f7-9a80cf94e6f2
 ---

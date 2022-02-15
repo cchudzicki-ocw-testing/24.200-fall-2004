@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: arsciencehdo.pdf
-type: OCWFile
 uid: a7ac3ced-6a1e-a177-6cc1-4f10cf4c3d29
 ---

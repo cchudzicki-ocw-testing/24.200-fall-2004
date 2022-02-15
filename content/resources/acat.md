@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: acat.pdf
-type: OCWFile
 uid: 880ed236-8cb5-37f7-0061-1c8ea77b2717
 ---

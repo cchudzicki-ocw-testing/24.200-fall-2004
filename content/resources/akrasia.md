@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: akrasia.pdf
-type: OCWFile
 uid: f98a2982-e6d0-da95-adfb-f47eb6608f7c
 ---

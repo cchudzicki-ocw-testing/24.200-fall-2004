@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: soctheses.pdf
-type: OCWFile
 uid: 87212c12-ea76-1b8a-76ef-12ae65f4fbb2
 ---

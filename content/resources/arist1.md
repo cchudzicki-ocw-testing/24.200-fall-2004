@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: arist1.pdf
-type: OCWFile
 uid: 28b5e0ab-5287-5961-f22a-8aa9770f9879
 ---

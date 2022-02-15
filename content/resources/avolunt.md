@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: avolunt.pdf
-type: OCWFile
 uid: 4fa344a3-3581-1840-4862-fafdadc627cc
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: tap_rep5.pdf
-type: OCWFile
 uid: 7cb46bb6-8dad-ca19-2497-b46e2c7c942f
 ---

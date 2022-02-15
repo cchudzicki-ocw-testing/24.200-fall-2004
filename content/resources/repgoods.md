@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: repgoods.pdf
-type: OCWFile
 uid: 07f33db3-454c-bf7b-4cb6-fab350d917ef
 ---

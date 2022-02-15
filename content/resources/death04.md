@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: death04.pdf
-type: OCWFile
 uid: bd347f11-38c1-9d97-9795-06a527e71e97
 ---

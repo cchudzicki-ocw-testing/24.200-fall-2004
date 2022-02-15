@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: euthyhdo.pdf
-type: OCWFile
 uid: 1772c321-d915-875b-db63-0a165988c3ac
 ---

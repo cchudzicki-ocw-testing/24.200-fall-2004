@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: tapmetaphysics12.pdf
-type: OCWFile
 uid: 5f13c16c-47a5-8d84-c0be-c741edd8bbca
 ---

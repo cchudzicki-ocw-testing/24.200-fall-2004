@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: eplucre04.pdf
-type: OCWFile
 uid: 42c6a55d-7d32-06df-1d27-a066cf7420aa
 ---

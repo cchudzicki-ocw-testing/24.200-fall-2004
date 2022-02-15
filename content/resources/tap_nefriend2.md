@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: tap_nefriend2.pdf
-type: OCWFile
 uid: eff11036-bbb7-bb2b-1927-8dfb6d74c8ec
 ---

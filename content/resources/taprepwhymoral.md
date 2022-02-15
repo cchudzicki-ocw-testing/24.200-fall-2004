@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: taprepwhymoral.pdf
-type: OCWFile
 uid: aaea37e5-61fd-39ca-a7a2-ddf4d7788fa0
 ---

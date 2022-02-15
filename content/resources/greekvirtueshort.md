@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: greekvirtueshort.pdf
-type: OCWFile
 uid: 340916a7-4de1-7750-8844-5f199f778388
 ---

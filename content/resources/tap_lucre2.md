@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: tap_lucre2.pdf
-type: OCWFile
 uid: 11bcd0dc-ba33-f919-cf49-a88a1e19a2fd
 ---

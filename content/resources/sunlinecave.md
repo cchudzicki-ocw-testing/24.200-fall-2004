@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: sunlinecave.pdf
-type: OCWFile
 uid: 9512959a-02ed-7f81-025b-0a84449fd408
 ---

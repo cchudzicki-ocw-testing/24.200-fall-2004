@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: menoinq.pdf
-type: OCWFile
 uid: 42990f54-5337-ffe4-93c6-9ddb86cbd7e2
 ---

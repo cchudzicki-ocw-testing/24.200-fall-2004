@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: asubsthdo.pdf
-type: OCWFile
 uid: 966b9b90-4ae6-ae40-dca1-46c2cf310cbe
 ---

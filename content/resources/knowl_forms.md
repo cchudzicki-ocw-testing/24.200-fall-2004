@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: knowl_forms.pdf
-type: OCWFile
 uid: 783850da-cbf8-48bd-5423-a34e0212a6b0
 ---

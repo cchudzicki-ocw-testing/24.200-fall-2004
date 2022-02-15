@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: tapmenok_l.pdf
-type: OCWFile
 uid: 76a62d9a-1d03-d49c-dea8-e12f3d9f7ebf
 ---

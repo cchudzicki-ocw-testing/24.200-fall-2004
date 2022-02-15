@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: thirdman.pdf
-type: OCWFile
 uid: 9f2211a1-e85c-e0c9-8d67-959c059a2924
 ---
