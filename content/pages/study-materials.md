@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The study materials section provides the information about text analysis
+  presentations and their schedule during the term.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
