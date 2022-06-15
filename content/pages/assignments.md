@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section provides guidelines for the papers and the topics
+  for the three paper assignments.
 draft: false
 title: Assignments
 uid: e0565be1-8e18-bb7c-4b66-60a9de91f827
