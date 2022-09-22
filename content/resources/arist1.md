@@ -5,6 +5,7 @@ file: /courses/24-200-ancient-philosophy-fall-2004/28b5e0ab52875961f22a8aa9770f9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
